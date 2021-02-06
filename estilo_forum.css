@@ -1,0 +1,193 @@
+body{
+font-family:"Times New Roman", Times, serif;
+font-style: italic;
+font-size:0px;
+line-height:1,5 em;
+color:#000000;
+background: rgba(102, 86, 127, 0.07);
+margin:2px;
+padding:0px;
+text-align:left;
+width:100%;
+}
+	table.tabela_cima{
+	border:thin solid #cccccc;
+	font-size:20px;
+	background: rgba(26, 204, 138, 0.41);
+	text-align:center;
+	}
+	
+	table.tabela_baixo{
+
+	border:thin solid #cccccc;
+	font-size:15px;
+	background: rgba(255, 255, 255, 0.32);
+	text-align:left;
+
+	}
+	
+	table.tabela_mesagens{
+	border:thin solid #cccccc;
+	font-size:15px;
+	background: rgba(148, 189, 204, 0.04);
+	text-align:left;
+	}
+th{
+letter-spacing:1.5px;
+background:#dddddd;
+color:#94bdcc;
+text-transform:none;
+border-top:thick solid #eeeeee;
+
+}
+
+tr.titulos{
+font-family: arial, verdana, sans-serif;
+font-size:12px;
+letter-spacing:1.0px;
+background:#666666;
+color:#ffffff;
+text-transform:uppercase;
+border-top:thick solid #cccccc;
+border-bottom:thin solid #cccccc;
+text-align:left;
+}
+
+tr.body{
+background:#ffffff;
+color: rgba(255, 255, 255, 0.03);
+}
+
+td{
+border:none;
+padding:12px;
+}
+
+td.login{
+letter-spacing:2.5px;
+border:thin solid #cccccc;
+padding:0px;
+text-align:center;
+}
+
+td.topo{
+font-family: arial, verdana, sans-serif;
+font-size:16px;
+line-height:1,5 em;
+text-transform:uppercase;
+letter-spacing:2.5px;
+border:thin solid #cccccc;
+padding:0px;
+text-align:center;
+}
+
+td.utilizadores{
+font-family: arial, verdana, sans-serif;
+font-size:12px;
+line-height:1,5px;
+text-transform:uppercase;
+letter-spacing:1.0px;
+border:thin solid #cccccc;
+padding:12px;
+text-align:center;
+background: #94bdcc;
+}
+
+.usar{
+
+
+    border:thin solid #cccccc;
+    font-size:20px;
+    background: #94bdcc;
+    text-align:left;
+    line-height:1,5px;
+    text-transform:uppercase;
+    letter-spacing:1.0px;
+    padding: 12px ;
+
+
+}
+
+td.apagar_categorias{
+font-family: arial, verdana, sans-serif;
+font-size:12px;
+line-height:3px;
+text-transform:uppercase;
+letter-spacing:1.0px;
+border:thin solid #cccccc;
+padding:0px;
+text-align:center;
+background: #94bdcc;
+}
+
+a.forum:link{
+color: #ff4a37;
+width:100%;
+background:none;
+padding:3px;
+}
+a.apagar:link{
+color:rad;
+width:100%;
+background:none;
+padding:3px;
+}
+
+.txt{
+height:12px;
+width:22px;
+bolder:none;
+border-radius: 3px;
+background-color: #fff;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
